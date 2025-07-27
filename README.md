@@ -101,7 +101,7 @@ For each failure type, best threshold is selected based on **F1-score** using th
 - Helps maintenance engineers prioritize specific checks
 - Enables **root-cause diagnosis** and part replacements before breakdowns occur
 
-##  END-TO-END PIPELINE FLOW
+##  END-TO-END PROJECT FLOW
 
 ```
 [Raw Sensor Data]
