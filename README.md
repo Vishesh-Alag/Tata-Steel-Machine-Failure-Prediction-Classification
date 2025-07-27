@@ -141,9 +141,9 @@ Key CSVs used:
 
 ##  AUTHOR & CREDITS
 
-**Developed by**: [Your Name]  
+**Developed by**: Vishesh Alag  
 **Use case**: Industrial Predictive Maintenance – Tata Machines  
-**Contact**: [Your Email or LinkedIn]
+
 
 ---
 
